@@ -1,0 +1,130 @@
+Rahul Tripathi	Indian	Batsman
+Ruturaj Gaikwad	Indian	Batsman
+Devon Conway	Foreigner	Batsman
+Khaleel Ahmed	Indian	Bowler
+Matheesha Pathirana	Foreigner	Bowler
+Nathan Ellis	Foreigner	Bowler
+Noor Ahmad	Foreigner	Bowler
+Ravichandran Ashwin	Indian	All Rounder
+Ravindra Jadeja	Indian	All Rounder
+Shivam Dube	Indian	All Rounder
+Rachin Ravindra	Foreigner	All Rounder
+Sam Curran	Foreigner	All Rounder
+MS Dhoni	Indian	Wicket Keeper
+Faf du Plessis	Foreigner	Batsman
+Harry Brook	Foreigner	Batsman
+Jake Fraser-McGurk	Foreigner	Batsman
+Kuldeep Yadav	Indian	Bowler
+Mohit Sharma	Indian	Bowler
+Mukesh Kumar	Indian	Bowler
+T Natarajan	Indian	Bowler
+Mitchell Starc	Foreigner	Bowler
+Ashutosh Sharma	Indian	All Rounder
+Axar Patel	Indian	All Rounder
+Sameer Rizvi	Indian	All Rounder
+KL Rahul	Indian	Wicket Keeper
+Tristan Stubbs	Foreigner	Wicket Keeper
+Shubman Gill	Indian	Batsman
+Glenn Phillips	Foreigner	Batsman
+Mohammed Siraj	Indian	Bowler
+Prasidh Krishna	Indian	Bowler
+Rahul Tewatia	Indian	Bowler
+Gerald Coetzee	Foreigner	Bowler
+Kagiso Rabada	Foreigner	Bowler
+Rashid Khan	Foreigner	Bowler
+Sai Kishore	Indian	All Rounder
+Sai Sudharsan	Indian	All Rounder
+Shahrukh Khan	Indian	All Rounder
+Washington Sundar	Indian	All Rounder
+Jos Buttler	Foreigner	Wicket Keeper
+Ajinkya Rahane	Indian	Batsman
+Angkrish Raghuvanshi	Indian	Batsman
+Rinku Singh	Indian	Batsman
+Rovman Powell	Foreigner	Batsman
+Harshit Rana	Indian	Bowler
+Umran Malik	Indian	Bowler
+Vaibhav Arora	Indian	Bowler
+Varun Chakravarthy	Indian	Bowler
+Sunil Narine	Foreigner	Bowler
+Ramandeep Singh	Indian	All Rounder
+Venkatesh Iyer	Indian	All Rounder
+Andre Russell	Foreigner	All Rounder
+Quinton de Kock	Foreigner	Wicket Keeper
+Aiden Markram	Foreigner	Batsman
+David Miller	Foreigner	Batsman
+Akash Deep	Indian	Bowler
+Avesh Khan	Indian	Bowler
+Mayank Yadav	Indian	Bowler
+Mohsin Khan	Indian	Bowler
+Ravi Bishnoi	Indian	Bowler
+Abdul Samad	Indian	All Rounder
+Ayush Badoni	Indian	All Rounder
+Shahbaz Ahmed	Indian	All Rounder
+Mitchell Marsh	Foreigner	All Rounder
+Rishabh Pant	Indian	Wicket Keeper
+Nicholas Pooran	Foreigner	Wicket Keeper
+Rohit Sharma	Indian	Batsman
+Suryakumar Yadav	Indian	Batsman
+Tilak Varma	Indian	Batsman
+Deepak Chahar	Indian	Bowler
+Jasprit Bumrah	Indian	Bowler
+Karn Sharma	Indian	Bowler
+Trent Boult	Foreigner	Bowler
+Hardik Pandya	Indian	All Rounder
+Naman Dhir	Indian	All Rounder
+Mitchell Santner	Foreigner	All Rounder
+Will Jacks	Foreigner	All Rounder
+Robin Minz	Indian	Wicket Keeper
+Ryan Rickelton	Foreigner	Wicket Keeper
+Nehal Wadhera	Indian	Batsman
+Shashank Singh	Indian	Batsman
+Shreyas Iyer	Indian	Batsman
+Arshdeep Singh	Indian	Bowler
+Yash Thakur	Indian	Bowler
+Yuzvendra Chahal	Indian	Bowler
+Lockie Ferguson	Foreigner	Bowler
+Harpreet Brar	Indian	All Rounder
+Glenn Maxwell	Foreigner	All Rounder
+Marco Jansen	Foreigner	All Rounder
+Marcus Stoinis	Foreigner	All Rounder
+Prabhsimran Singh	Indian	Wicket Keeper
+Josh Inglis	Foreigner	Wicket Keeper
+Devdutt Padikkal	Indian	Batsman
+Rajat Patidar	Indian	Batsman
+Virat Kohli	Indian	Batsman
+Bhuvneshwar Kumar	Indian	Bowler
+Rasikh Dar	Indian	Bowler
+Suyash Sharma	Indian	Bowler
+Josh Hazlewood	Foreigner	Bowler
+Krunal Pandya	Indian	All Rounder
+Liam Livingstone	Foreigner	All Rounder
+Romario Shepherd	Foreigner	All Rounder
+Tim David	Foreigner	All Rounder
+Jitesh Sharma	Indian	Wicket Keeper
+Phil Salt	Foreigner	Wicket Keeper
+Riyan Parag	Indian	Batsman
+Yashasvi Jaiswal	Indian	Batsman
+Shimron Hetmyer	Foreigner	Batsman
+Sandeep Sharma	Indian	Bowler
+Tushar Deshpande	Indian	Bowler
+Fazalhaq Farooqi 	Foreigner	Bowler
+Jofra Archer	Foreigner	Bowler
+Maheesh Theekshana	Foreigner	Bowler
+Wanindu Hasaranga	Foreigner	Bowler
+Nitish Rana	Indian	All Rounder
+Yudhvir Singh	Indian	All Rounder
+Dhruv Jurel	Indian	Wicket Keeper
+Sanju Samson	Indian	Wicket Keeper
+Abhinav Manohar	Indian	Batsman
+Travis Head	Foreigner	Batsman
+Jaydev Unadkat	Indian	Bowler
+Mohammed Shami	Indian	Bowler
+Rahul Chahar	Indian	Bowler
+Adam Zampa	Foreigner	Bowler
+Pat Cummins	Foreigner	Bowler
+Abhishek Sharma	Indian	All Rounder
+Harshal Patel	Indian	All Rounder
+Nitish Kumar Reddy	Indian	All Rounder
+Brydon Carse	Foreigner	All Rounder
+Ishan Kishan	Indian	Wicket Keeper
+Heinrich Klaassen	Foreigner	Wicket Keeper

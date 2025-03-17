@@ -1,0 +1,110 @@
+Foreign	Pat Cummins	Bowler
+Indian	Shahbaz Ahmed	All Rounder
+Indian	Umran Malik	Bowler
+Foreign	Marco Jansen 	Bowler
+Indian	Mayank Agarwal	Batsman
+Indian	Thangarasu Natarajan	Bowler
+Indian	Bhuvneshwar Kumar	Bowler
+Indian	Rahul Tripathi	Batsman
+Indian	Abhishek Sharma	Batsman
+Foreign	Aiden Markram 	Batsman
+Foreign	Heinrich Klaasen	WK
+Indian	Rishabh Pant	WK
+Indian	Axar Patel	All Rounder
+Indian	Prithvi Shaw	Batsman
+Foreign	Anrich Nortje 	Bowler
+Foreign	David Warner 	Batsman
+Indian	Kamlesh Nagarkoti	Bowler
+Indian	Kuldeep Yadav	Bowler
+Indian	Khaleel Ahmed	Bowler
+Indian	Lalit Yadav	Batsman
+Foreign	Harry Brook	Batsman
+Foreign	Mitchell Marsh	Batsman
+Indian	Devdutt Padikkal	Batsman
+Indian	KL Rahul	WK
+Foreign	Marcus Stoinis 	All Rounder
+Indian	Ravi Bishnoi 	Bowler
+Foreign	Quinton De Kock 	WK
+Foreign	Kyle Mayers	All Rounder
+Indian	Deepak Hooda	Batsman
+Indian	Krunal Pandya	All Rounder
+Indian	Ayush Badoni 	Batsman
+Indian	Amit Mishra	Bowler
+Indian	Krishnappa Gowtham	All Rounder
+Indian	Sanju Samson	WK
+Indian	Yashasvi Jaiswal	Batsman
+Foreign	Jos Buttler	WK
+Indian	Ravichandran Ashwin	All Rounder
+Foreign	Trent Boult 	Bowler
+Foreign	Shimron Hetmyer 	Batsman
+Indian	Sandeep Sharma	Bowler
+Indian	Yuzvendra Chahal	Bowler
+Indian	Avesh Khan	Bowler
+Indian	Riyan Parag	Batsman
+Indian	Adam Zampa	Bowler
+Indian	Virat Kohli	Batsman
+Foreign	Glenn Maxwell 	All Rounder
+Indian	Mohammed Siraj	Bowler
+Foreign	Faf Du Plessis	Batsman
+Indian	Dinesh Karthik	WK
+Indian	Anuj Rawat	Batsman
+Foreign	Cameron Green	All Rounder
+Foreign	Alzarri Joseph	Bowler
+Indian	Karn Sharma	Bowler
+Indian	Rajat Patidar	Batsman
+Foreign	Lockie Ferguson	Bowler
+Indian	Rohit Sharma	Batsman
+Foreign	Joffra Archer	Bowler
+Indian	Suryakumar Yadav	Batsman
+Foreign	Tim David	All Rounder
+Indian	Ishan Kishan	WK
+Foreign	Dewald Brevis 	Batsman
+Indian	Arjun Tendulkar	Bowler
+Foreign	Jason Behrendorff	Bowler
+Indian	Tilak Varma	All Rounder
+Indian	Jasprit Bumrah	Bowler
+Indian	Hardik Pandya	All Rounder
+Foreign	Mustafizur Rahman	Bowler
+Foreign	Matheesha Pathirana	Bowler
+Indian	Shardul Thakur	All Rounder
+Indian	Ravindra Jadeja	All Rounder
+Indian	MS Dhoni	WK
+Foreign	Moeen Ali	All Rounder
+Indian	Ruturaj Gaikwad	Batsman
+Foreign	Devon Conway	Batsman
+Foreign	Mitchell Santner	Bowler
+Indian	Shivam Dube	All Rounder
+Foreign	Maheesh Theekshana 	Bowler
+Foreign	Andre Russell 	All Rounder
+Indian	Venkatesh Iyer	All Rounder
+Indian	Chetan Sakariya	Bowler
+Indian	Varun Chakravarthy	Bowler
+Foreign	Sunil Narine 	Bowler
+Indian	Shreyas Iyer	Batsman
+Indian	Nitish Rana	Batsman
+Indian	Rinku Singh	Batsman
+Foreign	Mitchell Starc	Bowler
+Indian	Manish Pandey	Batsman
+Indian	Rahmanullah Gurbaz	WK
+Indian	Prabhsimran Singh	WK
+Indian	Arshdeep Singh	Bowler
+Indian	Shikhar Dhawan	Batsman
+Foreign	Kagiso Rabada 	Bowler
+Foreign	Sam Curran	All Rounder
+Indian	Rahul Chahar	Bowler
+Foreign	Liam Livingstone 	Batsman
+Indian	Harpreet Brar	Bowler
+Indian	Harshal Patel	Bowler
+Indian	Rishi Dhawan	All Rounder
+Foreign	Jonny Bairstow	Batsman
+Indian	Shahrukh Khan	Batsman
+Indian	Umesh Yadav	Bowler
+Foreign	Rashid Khan 	Bowler
+Indian	Shubman Gill	Batsman
+Indian	Mohammed Shami	Bowler
+Indian	Rahul Tewatia	All Rounder
+Indian	Vijay Shankar	All Rounder
+Foreign	David Miller 	Batsman
+Foreign	Matthew Wade 	WK
+Indian	Abhinav Manohar 	Batsman
+Foreign	Kane Williamson	Batsman
