@@ -1,6 +1,8 @@
 # IPL Auction 
 
-This project provides an application for IPL auction, built using Dash in Python. 
+This project provides an application for IPL auction, built using Dash in Python. ETC stands for Emerging Talent in Cisco, which conducts events across the year, technical to fun events for early in career folks. One such event is the ETC IPL auction, where teams bid for players, before an ipl season begins. Teams are ranked based on the Fantasy points at the end of season.
+
+This app was build in under 3 hours, when I wanted to take the realism of auction to the next level
 
 ## Installation
 
